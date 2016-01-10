@@ -195,4 +195,4 @@ plot( x      = weekday_activity
 
 ![](PA1_template_files/figure-html/unnamed-chunk-9-1.png)\
 
-It apprears while there's a spike in activity between 600-1000 intervals on both weekends and weekdays, there is higher activity after 1000 interval during weekends compared to weekdays.
+It appears while there's a spike in activity between 600-1000 intervals on both weekends and weekdays, there is higher activity after 1000 interval during weekends compared to weekdays.
